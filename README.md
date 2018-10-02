@@ -1,0 +1,1 @@
+This repo contains regular expression training as well as a python validator to the challenge presented int he training.
